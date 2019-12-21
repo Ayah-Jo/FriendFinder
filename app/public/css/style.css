@@ -1,0 +1,36 @@
+body {
+    background-image: url(https://www.weightwatchers.com/us/sites/default/files/styles/wwvs_default_image/public/article_masthead/friendshipbreak_stocksy_txp000d32d0lir100_large_520384_720x460.jpg?itok=XAkAA8-0);
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+h4 {
+    font-weight: bolder;
+}
+
+.jumbotron {
+    background-color: burlywood;
+    color: white;
+    opacity: .75;
+    margin-top: 20px;
+}
+
+#submit {
+    background: burlywood;
+}
+
+#jumbo_h2 {
+    color: white;
+}
+
+.btn-primary {
+    color: #fff;
+    background-color: #337ab7;
+    border-color: #2e6da4;
+}
+
+.panel-title {
+    color: burlywood;
+}
